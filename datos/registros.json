@@ -1,0 +1,2178 @@
+[
+ {
+  "fecha": "2021-01-01",
+  "anio": 2021,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2021",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eugenio Espejo",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.175,
+    "lng": -78.485
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Pie De Vereda",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 168340.5,
+   "toneladas_mensuales": 14.0284,
+   "denuncias_atendidas": 3420,
+   "denuncias_mensuales": 285,
+   "porcentaje_cumplimiento": 94.2,
+   "buenas_resenas": 81.5
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Alto",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2021-01-01",
+  "anio": 2021,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2021",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eloy Alfaro",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.253,
+    "lng": -78.528
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Lunes A Sábado"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 112450.2,
+   "toneladas_mensuales": 9.3709,
+   "denuncias_atendidas": 2890,
+   "denuncias_mensuales": 240.8333,
+   "porcentaje_cumplimiento": 92.8,
+   "buenas_resenas": 78.2
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2021-01-01",
+  "anio": 2021,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2021",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Quitumbe",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.2985,
+    "lng": -78.548
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda Y Carga Lateral",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 109800.8,
+   "toneladas_mensuales": 9.1501,
+   "denuncias_atendidas": 3110,
+   "denuncias_mensuales": 259.1667,
+   "porcentaje_cumplimiento": 91.5,
+   "buenas_resenas": 76.8
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2021-01-01",
+  "anio": 2021,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2021",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "La Delicia",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.105,
+    "lng": -78.493
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 85600.4,
+   "toneladas_mensuales": 7.1334,
+   "denuncias_atendidas": 2150,
+   "denuncias_mensuales": 179.1667,
+   "porcentaje_cumplimiento": 93.1,
+   "buenas_resenas": 80
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2021-01-01",
+  "anio": 2021,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2021",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Calderón",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.098,
+    "lng": -78.415
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 81200,
+   "toneladas_mensuales": 6.7667,
+   "denuncias_atendidas": 2450,
+   "denuncias_mensuales": 204.1667,
+   "porcentaje_cumplimiento": 89.4,
+   "buenas_resenas": 74.5
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2021-01-01",
+  "anio": 2021,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2021",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Manuela Sáenz",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.22,
+    "lng": -78.512
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Manual",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 63100.3,
+   "toneladas_mensuales": 5.2584,
+   "denuncias_atendidas": 1820,
+   "denuncias_mensuales": 151.6667,
+   "porcentaje_cumplimiento": 95,
+   "buenas_resenas": 83.1
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2021-01-01",
+  "anio": 2021,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2021",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Los Chillos",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.29,
+    "lng": -78.478
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 58900.1,
+   "toneladas_mensuales": 4.9083,
+   "denuncias_atendidas": 1430,
+   "denuncias_mensuales": 119.1667,
+   "porcentaje_cumplimiento": 90.2,
+   "buenas_resenas": 79
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2021-01-01",
+  "anio": 2021,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2021",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Tumbaco",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.212,
+    "lng": -78.4
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 43200.7,
+   "toneladas_mensuales": 3.6001,
+   "denuncias_atendidas": 1120,
+   "denuncias_mensuales": 93.3333,
+   "porcentaje_cumplimiento": 91,
+   "buenas_resenas": 81.2
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2022-01-01",
+  "anio": 2022,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2022",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Tumbaco",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.212,
+    "lng": -78.4
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 44100.2,
+   "toneladas_mensuales": 3.675,
+   "denuncias_atendidas": 1010,
+   "denuncias_mensuales": 84.1667,
+   "porcentaje_cumplimiento": 92.1,
+   "buenas_resenas": 82.8
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2022-01-01",
+  "anio": 2022,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2022",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Los Chillos",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.29,
+    "lng": -78.478
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 59800.4,
+   "toneladas_mensuales": 4.9834,
+   "denuncias_atendidas": 1300,
+   "denuncias_mensuales": 108.3333,
+   "porcentaje_cumplimiento": 91.5,
+   "buenas_resenas": 80.5
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2022-01-01",
+  "anio": 2022,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2022",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Calderón",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.098,
+    "lng": -78.415
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 82500.6,
+   "toneladas_mensuales": 6.8751,
+   "denuncias_atendidas": 2210,
+   "denuncias_mensuales": 184.1667,
+   "porcentaje_cumplimiento": 90.8,
+   "buenas_resenas": 76.9
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2022-01-01",
+  "anio": 2022,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2022",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Manuela Sáenz",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.22,
+    "lng": -78.512
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Manual",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 64000.1,
+   "toneladas_mensuales": 5.3333,
+   "denuncias_atendidas": 1650,
+   "denuncias_mensuales": 137.5,
+   "porcentaje_cumplimiento": 95.8,
+   "buenas_resenas": 85
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2022-01-01",
+  "anio": 2022,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2022",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Quitumbe",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.2985,
+    "lng": -78.548
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda Y Carga Lateral",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 110900.3,
+   "toneladas_mensuales": 9.2417,
+   "denuncias_atendidas": 2900,
+   "denuncias_mensuales": 241.6667,
+   "porcentaje_cumplimiento": 92.3,
+   "buenas_resenas": 78.5
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2022-01-01",
+  "anio": 2022,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2022",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eloy Alfaro",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.253,
+    "lng": -78.528
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Lunes A Sábado"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 114100.5,
+   "toneladas_mensuales": 9.5084,
+   "denuncias_atendidas": 2640,
+   "denuncias_mensuales": 220,
+   "porcentaje_cumplimiento": 93.5,
+   "buenas_resenas": 80.1
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2022-01-01",
+  "anio": 2022,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2022",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eugenio Espejo",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.175,
+    "lng": -78.485
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Pie De Vereda",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 171200.8,
+   "toneladas_mensuales": 14.2667,
+   "denuncias_atendidas": 3150,
+   "denuncias_mensuales": 262.5,
+   "porcentaje_cumplimiento": 95.1,
+   "buenas_resenas": 83
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Alto",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2022-01-01",
+  "anio": 2022,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2022",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "La Delicia",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.105,
+    "lng": -78.493
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 86900,
+   "toneladas_mensuales": 7.2417,
+   "denuncias_atendidas": 1980,
+   "denuncias_mensuales": 165,
+   "porcentaje_cumplimiento": 94,
+   "buenas_resenas": 82.3
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2023-01-01",
+  "anio": 2023,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2023",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eugenio Espejo",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.175,
+    "lng": -78.485
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Pie De Vereda",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 174500.3,
+   "toneladas_mensuales": 14.5417,
+   "denuncias_atendidas": 2980,
+   "denuncias_mensuales": 248.3333,
+   "porcentaje_cumplimiento": 96,
+   "buenas_resenas": 84.5
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Alto",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2023-01-01",
+  "anio": 2023,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2023",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eloy Alfaro",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.253,
+    "lng": -78.528
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Lunes A Sábado"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 116200.1,
+   "toneladas_mensuales": 9.6833,
+   "denuncias_atendidas": 2410,
+   "denuncias_mensuales": 200.8333,
+   "porcentaje_cumplimiento": 94.2,
+   "buenas_resenas": 81.7
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2023-01-01",
+  "anio": 2023,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2023",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Quitumbe",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.2985,
+    "lng": -78.548
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda Y Carga Lateral",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 112800.9,
+   "toneladas_mensuales": 9.4001,
+   "denuncias_atendidas": 2720,
+   "denuncias_mensuales": 226.6667,
+   "porcentaje_cumplimiento": 93.1,
+   "buenas_resenas": 80
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2023-01-01",
+  "anio": 2023,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2023",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "La Delicia",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.105,
+    "lng": -78.493
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 88400.7,
+   "toneladas_mensuales": 7.3667,
+   "denuncias_atendidas": 1820,
+   "denuncias_mensuales": 151.6667,
+   "porcentaje_cumplimiento": 94.8,
+   "buenas_resenas": 83.9
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2023-01-01",
+  "anio": 2023,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2023",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Calderón",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.098,
+    "lng": -78.415
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 84100.2,
+   "toneladas_mensuales": 7.0084,
+   "denuncias_atendidas": 2050,
+   "denuncias_mensuales": 170.8333,
+   "porcentaje_cumplimiento": 91.7,
+   "buenas_resenas": 78.4
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2023-01-01",
+  "anio": 2023,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2023",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Manuela Sáenz",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.22,
+    "lng": -78.512
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Manual",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 65200,
+   "toneladas_mensuales": 5.4333,
+   "denuncias_atendidas": 1510,
+   "denuncias_mensuales": 125.8333,
+   "porcentaje_cumplimiento": 96.3,
+   "buenas_resenas": 86.2
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2023-01-01",
+  "anio": 2023,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2023",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Los Chillos",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.29,
+    "lng": -78.478
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 61000.8,
+   "toneladas_mensuales": 5.0834,
+   "denuncias_atendidas": 1190,
+   "denuncias_mensuales": 99.1667,
+   "porcentaje_cumplimiento": 92.3,
+   "buenas_resenas": 82.1
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2023-01-01",
+  "anio": 2023,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2023",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Tumbaco",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.212,
+    "lng": -78.4
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 45200.5,
+   "toneladas_mensuales": 3.7667,
+   "denuncias_atendidas": 940,
+   "denuncias_mensuales": 78.3333,
+   "porcentaje_cumplimiento": 93,
+   "buenas_resenas": 84
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": true
+ },
+ {
+  "fecha": "2024-01-01",
+  "anio": 2024,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2024",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Manuela Sáenz",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.22,
+    "lng": -78.512
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Manual",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 66100.5,
+   "toneladas_mensuales": 5.5084,
+   "denuncias_atendidas": 1400,
+   "denuncias_mensuales": 116.6667,
+   "porcentaje_cumplimiento": 96.8,
+   "buenas_resenas": 87.1
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2024-01-01",
+  "anio": 2024,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2024",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Los Chillos",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.29,
+    "lng": -78.478
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 62100.3,
+   "toneladas_mensuales": 5.175,
+   "denuncias_atendidas": 1100,
+   "denuncias_mensuales": 91.6667,
+   "porcentaje_cumplimiento": 93,
+   "buenas_resenas": 83.2
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2024-01-01",
+  "anio": 2024,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2024",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Calderón",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.098,
+    "lng": -78.415
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 85600.8,
+   "toneladas_mensuales": 7.1334,
+   "denuncias_atendidas": 1920,
+   "denuncias_mensuales": 160,
+   "porcentaje_cumplimiento": 92.4,
+   "buenas_resenas": 79.8
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2024-01-01",
+  "anio": 2024,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2024",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Tumbaco",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.212,
+    "lng": -78.4
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 46000,
+   "toneladas_mensuales": 3.8333,
+   "denuncias_atendidas": 880,
+   "denuncias_mensuales": 73.3333,
+   "porcentaje_cumplimiento": 93.6,
+   "buenas_resenas": 85
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2024-01-01",
+  "anio": 2024,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2024",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Quitumbe",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.2985,
+    "lng": -78.548
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda Y Carga Lateral",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 114500,
+   "toneladas_mensuales": 9.5417,
+   "denuncias_atendidas": 2580,
+   "denuncias_mensuales": 215,
+   "porcentaje_cumplimiento": 93.8,
+   "buenas_resenas": 81.1
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2024-01-01",
+  "anio": 2024,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2024",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eloy Alfaro",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.253,
+    "lng": -78.528
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Lunes A Sábado"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 118000.4,
+   "toneladas_mensuales": 9.8334,
+   "denuncias_atendidas": 2290,
+   "denuncias_mensuales": 190.8333,
+   "porcentaje_cumplimiento": 94.8,
+   "buenas_resenas": 82.5
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2024-01-01",
+  "anio": 2024,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2024",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eugenio Espejo",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.175,
+    "lng": -78.485
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Pie De Vereda",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 176800.1,
+   "toneladas_mensuales": 14.7333,
+   "denuncias_atendidas": 2810,
+   "denuncias_mensuales": 234.1667,
+   "porcentaje_cumplimiento": 96.5,
+   "buenas_resenas": 85.2
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Alto",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2024-01-01",
+  "anio": 2024,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero-Diciembre 2024",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "La Delicia",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.105,
+    "lng": -78.493
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 89900.2,
+   "toneladas_mensuales": 7.4917,
+   "denuncias_atendidas": 1710,
+   "denuncias_mensuales": 142.5,
+   "porcentaje_cumplimiento": 95.2,
+   "buenas_resenas": 84.6
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-02-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Tumbaco",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.212,
+    "lng": -78.4
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 3438,
+   "toneladas_mensuales": 3.438,
+   "denuncias_atendidas": 65,
+   "denuncias_mensuales": 65,
+   "porcentaje_cumplimiento": 93.8,
+   "buenas_resenas": 85.7
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-02-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Los Chillos",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.29,
+    "lng": -78.478
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 4525,
+   "toneladas_mensuales": 4.525,
+   "denuncias_atendidas": 85,
+   "denuncias_mensuales": 85,
+   "porcentaje_cumplimiento": 93.1,
+   "buenas_resenas": 83.6
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-02-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Calderón",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.098,
+    "lng": -78.415
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 6322,
+   "toneladas_mensuales": 6.322,
+   "denuncias_atendidas": 153,
+   "denuncias_mensuales": 153,
+   "porcentaje_cumplimiento": 92.2,
+   "buenas_resenas": 79.9
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-02-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "La Delicia",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.105,
+    "lng": -78.493
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 6947,
+   "toneladas_mensuales": 6.947,
+   "denuncias_atendidas": 135,
+   "denuncias_mensuales": 135,
+   "porcentaje_cumplimiento": 95.1,
+   "buenas_resenas": 84.8
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-02-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Quitumbe",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.2985,
+    "lng": -78.548
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda Y Carga Lateral",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 8380,
+   "toneladas_mensuales": 8.38,
+   "denuncias_atendidas": 201,
+   "denuncias_mensuales": 201,
+   "porcentaje_cumplimiento": 93.6,
+   "buenas_resenas": 81.5
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-02-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eloy Alfaro",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.253,
+    "lng": -78.528
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Lunes A Sábado"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 8631,
+   "toneladas_mensuales": 8.631,
+   "denuncias_atendidas": 182,
+   "denuncias_mensuales": 182,
+   "porcentaje_cumplimiento": 94.7,
+   "buenas_resenas": 82.9
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-02-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eugenio Espejo",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.175,
+    "lng": -78.485
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Pie De Vereda",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 13059,
+   "toneladas_mensuales": 13.059,
+   "denuncias_atendidas": 215,
+   "denuncias_mensuales": 215,
+   "porcentaje_cumplimiento": 96.4,
+   "buenas_resenas": 85.8
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Alto",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-02-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Manuela Sáenz",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.22,
+    "lng": -78.512
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Manual",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 5046,
+   "toneladas_mensuales": 5.046,
+   "denuncias_atendidas": 105,
+   "denuncias_mensuales": 105,
+   "porcentaje_cumplimiento": 96.8,
+   "buenas_resenas": 87.5
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-01-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Los Chillos",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.29,
+    "lng": -78.478
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 4986,
+   "toneladas_mensuales": 4.986,
+   "denuncias_atendidas": 90,
+   "denuncias_mensuales": 90,
+   "porcentaje_cumplimiento": 93.4,
+   "buenas_resenas": 84
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-01-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Manuela Sáenz",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.22,
+    "lng": -78.512
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Manual",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 5336,
+   "toneladas_mensuales": 5.336,
+   "denuncias_atendidas": 110,
+   "denuncias_mensuales": 110,
+   "porcentaje_cumplimiento": 97.1,
+   "buenas_resenas": 88
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-01-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Calderón",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.098,
+    "lng": -78.415
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 6851,
+   "toneladas_mensuales": 6.851,
+   "denuncias_atendidas": 160,
+   "denuncias_mensuales": 160,
+   "porcentaje_cumplimiento": 92.8,
+   "buenas_resenas": 80.5
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-01-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "La Delicia",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.105,
+    "lng": -78.493
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 7040,
+   "toneladas_mensuales": 7.04,
+   "denuncias_atendidas": 140,
+   "denuncias_mensuales": 140,
+   "porcentaje_cumplimiento": 95.5,
+   "buenas_resenas": 85.1
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-01-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Quitumbe",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.2985,
+    "lng": -78.548
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda Y Carga Lateral",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 9245,
+   "toneladas_mensuales": 9.245,
+   "denuncias_atendidas": 210,
+   "denuncias_mensuales": 210,
+   "porcentaje_cumplimiento": 94,
+   "buenas_resenas": 82
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-01-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eloy Alfaro",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.253,
+    "lng": -78.528
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Lunes A Sábado"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 9531,
+   "toneladas_mensuales": 9.531,
+   "denuncias_atendidas": 190,
+   "denuncias_mensuales": 190,
+   "porcentaje_cumplimiento": 95.1,
+   "buenas_resenas": 83.2
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Medio",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-01-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eugenio Espejo",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.175,
+    "lng": -78.485
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Pie De Vereda",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 14260,
+   "toneladas_mensuales": 14.26,
+   "denuncias_atendidas": 230,
+   "denuncias_mensuales": 230,
+   "porcentaje_cumplimiento": 96.8,
+   "buenas_resenas": 86
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Alto",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2025-01-01",
+  "anio": 2025,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2025",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Tumbaco",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.212,
+    "lng": -78.4
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 3669,
+   "toneladas_mensuales": 3.669,
+   "denuncias_atendidas": 70,
+   "denuncias_mensuales": 70,
+   "porcentaje_cumplimiento": 94,
+   "buenas_resenas": 86.1
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-02-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Manuela Sáenz",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.22,
+    "lng": -78.512
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Manual",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 5120,
+   "toneladas_mensuales": 1.7067,
+   "denuncias_atendidas": 92,
+   "denuncias_mensuales": 30.6667,
+   "porcentaje_cumplimiento": 97,
+   "buenas_resenas": 88.2
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-02-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Calderón",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.098,
+    "lng": -78.415
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 6450,
+   "toneladas_mensuales": 2.15,
+   "denuncias_atendidas": 140,
+   "denuncias_mensuales": 46.6667,
+   "porcentaje_cumplimiento": 92.6,
+   "buenas_resenas": 80.8
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-02-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "La Delicia",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.105,
+    "lng": -78.493
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 7080,
+   "toneladas_mensuales": 2.36,
+   "denuncias_atendidas": 121,
+   "denuncias_mensuales": 40.3333,
+   "porcentaje_cumplimiento": 95.4,
+   "buenas_resenas": 85.5
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-02-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Quitumbe",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.2985,
+    "lng": -78.548
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda Y Carga Lateral",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 8510,
+   "toneladas_mensuales": 2.8367,
+   "denuncias_atendidas": 188,
+   "denuncias_mensuales": 62.6667,
+   "porcentaje_cumplimiento": 93.9,
+   "buenas_resenas": 82.4
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-02-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eloy Alfaro",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.253,
+    "lng": -78.528
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Lunes A Sábado"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 8790,
+   "toneladas_mensuales": 2.93,
+   "denuncias_atendidas": 168,
+   "denuncias_mensuales": 56,
+   "porcentaje_cumplimiento": 95,
+   "buenas_resenas": 83.5
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-02-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eugenio Espejo",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.175,
+    "lng": -78.485
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Pie De Vereda",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 13280,
+   "toneladas_mensuales": 4.4267,
+   "denuncias_atendidas": 198,
+   "denuncias_mensuales": 66,
+   "porcentaje_cumplimiento": 96.7,
+   "buenas_resenas": 86.8
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-01-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Tumbaco",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.212,
+    "lng": -78.4
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 3750,
+   "toneladas_mensuales": 1.25,
+   "denuncias_atendidas": 61,
+   "denuncias_mensuales": 20.3333,
+   "porcentaje_cumplimiento": 94.2,
+   "buenas_resenas": 87
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-01-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "La Delicia",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.105,
+    "lng": -78.493
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 7180,
+   "toneladas_mensuales": 2.3933,
+   "denuncias_atendidas": 128,
+   "denuncias_mensuales": 42.6667,
+   "porcentaje_cumplimiento": 95.8,
+   "buenas_resenas": 86
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-01-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Manuela Sáenz",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.22,
+    "lng": -78.512
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Manual",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 5420,
+   "toneladas_mensuales": 1.8067,
+   "denuncias_atendidas": 98,
+   "denuncias_mensuales": 32.6667,
+   "porcentaje_cumplimiento": 97.4,
+   "buenas_resenas": 89
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-01-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Calderón",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.098,
+    "lng": -78.415
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 6990,
+   "toneladas_mensuales": 2.33,
+   "denuncias_atendidas": 148,
+   "denuncias_mensuales": 49.3333,
+   "porcentaje_cumplimiento": 93.1,
+   "buenas_resenas": 81.2
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-01-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Quitumbe",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.2985,
+    "lng": -78.548
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda Y Carga Lateral",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 9390,
+   "toneladas_mensuales": 3.13,
+   "denuncias_atendidas": 195,
+   "denuncias_mensuales": 65,
+   "porcentaje_cumplimiento": 94.3,
+   "buenas_resenas": 83.1
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-01-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eloy Alfaro",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.253,
+    "lng": -78.528
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Lunes A Sábado"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 9680,
+   "toneladas_mensuales": 3.2267,
+   "denuncias_atendidas": 175,
+   "denuncias_mensuales": 58.3333,
+   "porcentaje_cumplimiento": 95.4,
+   "buenas_resenas": 84
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-01-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Eugenio Espejo",
+   "zona": "Urbana",
+   "coordenadas": {
+    "lat": -0.175,
+    "lng": -78.485
+   }
+  },
+  "recoleccion": {
+   "tipo": "Carga Lateral Y Pie De Vereda",
+   "frecuencia": "Diurna Y Nocturna"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 14510,
+   "toneladas_mensuales": 4.8367,
+   "denuncias_atendidas": 210,
+   "denuncias_mensuales": 70,
+   "porcentaje_cumplimiento": 97,
+   "buenas_resenas": 87.1
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-02-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Los Chillos",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.29,
+    "lng": -78.478
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 4610,
+   "toneladas_mensuales": 1.5367,
+   "denuncias_atendidas": 78,
+   "denuncias_mensuales": 26,
+   "porcentaje_cumplimiento": 93.5,
+   "buenas_resenas": 84.2
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-01-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 1,
+  "periodo_datos": "Enero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Los Chillos",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.29,
+    "lng": -78.478
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 5080,
+   "toneladas_mensuales": 1.6933,
+   "denuncias_atendidas": 82,
+   "denuncias_mensuales": 27.3333,
+   "porcentaje_cumplimiento": 93.8,
+   "buenas_resenas": 85
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ },
+ {
+  "fecha": "2026-02-01",
+  "anio": 2026,
+  "trimestre": 1,
+  "mes": 2,
+  "periodo_datos": "Febrero 2026",
+  "ubicacion": {
+   "provincia": "Pichincha",
+   "canton": "Quito",
+   "administracion_zonal": "Tumbaco",
+   "zona": "Rural",
+   "coordenadas": {
+    "lat": -0.212,
+    "lng": -78.4
+   }
+  },
+  "recoleccion": {
+   "tipo": "Pie De Vereda",
+   "frecuencia": "Interdiaria"
+  },
+  "indicadores": {
+   "toneladas_generadas_kg": 3510,
+   "toneladas_mensuales": 1.17,
+   "denuncias_atendidas": 58,
+   "denuncias_mensuales": 19.3333,
+   "porcentaje_cumplimiento": 94,
+   "buenas_resenas": 86.5
+  },
+  "clasificacion": {
+   "categoria_toneladas": "Bajo",
+   "nivel_cumplimiento": "Alto"
+  },
+  "fin_de_semana": false
+ }
+]
